@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dita_test_01">
+    <title>Concept Title 01</title>
+    <shortdesc><b>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
+            adipisci velit...</b></shortdesc>
+    <conbody>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget mollis massa. Nam
+            hendrerit turpis eget arcu vulputate pharetra. Duis vulputate mollis risus ullamcorper
+            semper. Mauris in tempus enim, porta auctor orci. Phasellus elementum ligula sit amet
+            aliquet tempus. Sed posuere malesuada tempus. Phasellus consequat, urna id vulputate
+            pulvinar, massa diam consectetur odio, nec tincidunt elit mauris a augue. Nulla
+            facilisi. Sed ac interdum metus, eu faucibus justo.</p>
+        <p>Aliquam faucibus magna eu orci dapibus dictum. Vestibulum malesuada tristique dolor, at
+            bibendum tellus convallis in. Nullam varius orci sed consectetur euismod. Proin vehicula
+            porttitor eleifend. Nunc congue mauris libero, sed ultricies nisl aliquam et. Nulla
+            facilisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
+            inceptos himenaeos. Aenean dictum, ipsum sit amet dictum venenatis, erat sapien ornare
+            lorem, a tempor mi mi vitae urna. Ut vel fringilla dui. Morbi blandit nisi vel magna
+            tempor maximus. Proin in urna commodo urna facilisis molestie. Nam a est vitae tortor
+            facilisis scelerisque in porttitor arcu. Cras non egestas eros, id volutpat libero.
+            Aliquam tempus facilisis est ut porttitor. Mauris blandit blandit dui a laoreet.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_title_01">
+    <title>Task Title 01</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>There is no one who loves pain itself, who seeks after it and wants to have it,
+            simply because it is pain.</context>
+        <steps>
+            <step>
+                <cmd>Step 1 for this task.</cmd>
+            </step>
+            <step>
+                <cmd>Step 2 for this task.</cmd>
+            </step>
+            <step>
+                <cmd>And step 3 for this task.</cmd>
+            </step>
+            <step>
+                <cmd>Finally, step 4 for this task.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
